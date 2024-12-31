@@ -35,16 +35,22 @@ Welcome to the **Uber Clone App** repository! This project is a fully functional
 ## 📸 Application Preview  
 
 ### **Home Page**  
-![Home Page](https://raw.githubusercontent.com/your-username/uber-clone-app/main/assets/home-page.png)  
+![Home Page](https://github.com/abhi-shek-86/uber_clone/blob/main/Captain_Home_Page.png)  
 
-### **User Login**  
-![User Login](https://raw.githubusercontent.com/your-username/uber-clone-app/main/assets/user-login.png)  
+### **User Signup**  
+![User Login](https://github.com/abhi-shek-86/uber_clone/blob/main/User_Signup.png) 
 
-### **Captain Login**  
-![Captain Login](https://raw.githubusercontent.com/your-username/uber-clone-app/main/assets/captain-login.png)  
+### **User Home_Page**  
+![User Home_Page](https://github.com/abhi-shek-86/uber_clone/blob/main/User_Home_Page.png) 
 
-### **Ride Booking**  
-![Ride Booking](https://raw.githubusercontent.com/your-username/uber-clone-app/main/assets/ride-booking.png)  
+
+### **Captain Signup**  
+![Captain Login](https://github.com/abhi-shek-86/uber_clone/blob/main/Captain_Signup.png)  
+
+### **Captain Home_Page**  
+![Captain Home_Page](https://github.com/abhi-shek-86/uber_clone/blob/main/Captain_Home_Page.png)  
+
+
 
 ## 🚀 Getting Started  
 
