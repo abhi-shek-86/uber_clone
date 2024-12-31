@@ -17,7 +17,7 @@ pids
 lib-cov
 
 # Coverage directory used by tools like istanbul
-coverage
+coverage/
 *.lcov
 
 # Dependency directories
@@ -55,13 +55,12 @@ Thumbs.db
 *.ntvs*
 *.njsproj
 *.sln
-*.sw?
+*.swp
+*.swo
 
 # IDE and editor files
 .idea/
 .vscode/
-*.swp
-*.swo
 *.bak
 *.tmp
 *.orig
@@ -69,7 +68,6 @@ Thumbs.db
 # Build and package files
 *.tgz
 *.pack
-*.bak
 
 # Yarn Integrity file
 .yarn-integrity
@@ -92,9 +90,7 @@ lerna-debug.log*
 .tmp/
 .cache/
 *.temp
-*.swm
-*.swx
-*.gitattributes
 
-# Ignore custom models
-!models/
+# Ignore all models folder but ensure models/blackListToken.model.js is not ignored
+models/
+!models/blackListToken.model.js
