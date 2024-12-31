@@ -1,6 +1,6 @@
-# 🚖 Uber Clone App  
+# 🚖 Uber Clone Website
 
-Welcome to the **Uber Clone App** repository! This project is a fully functional ride-booking application inspired by Uber, built using the **MERN stack** (MongoDB, Express.js, React, Node.js). 🚀  
+Welcome to the **Uber Clone Website** repository! This project is a fully functional ride-booking application inspired by Uber, built using the **MERN stack** (MongoDB, Express.js, React, Node.js). 🚀  
 
 ---
 
