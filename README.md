@@ -35,7 +35,7 @@ Welcome to the **Uber Clone App** repository! This project is a fully functional
 ## 📸 Application Preview  
 
 ### **Home Page**  
-![Home Page](https://github.com/abhi-shek-86/uber_clone/blob/main/Captain_Home_Page.png)  
+![Home Page](https://github.com/abhi-shek-86/uber_clone/blob/main/Home_Page.png)  
 
 ### **User Signup**  
 ![User Login](https://github.com/abhi-shek-86/uber_clone/blob/main/User_Signup.png) 
